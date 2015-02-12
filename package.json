@@ -1,0 +1,14 @@
+{
+  "name": "FrontInSaoLuis",
+  "version": "1.0.0",
+  "description": "The portal site of the team's front end in saoluis which offers a lot of events of css, preprocessors, js and etc",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team of the frontinsaoluis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.1.2"
+  }
+}
